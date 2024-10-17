@@ -1,0 +1,20 @@
+﻿WebView2WpfBrowser
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Sviluppo\WebView2Samples-main\SampleApps\WebView2WpfBrowser\obj\Debug Stable APIs\net6.0-windows\
+WebView2WpfBrowser
+none
+false
+TRACE;DEBUG_STABLE_APIS;NET;NET6_0;NETCOREAPP
+C:\Sviluppo\WebView2Samples-main\SampleApps\WebView2WpfBrowser\App.xaml
+7-1049380206
+10410864058
+11-373658718
+197-292893020
+ClientCertificateSelectionDialog.xaml;Extensions.xaml;MainWindow.xaml;NewWindowOptionsDialog.xaml;SaveAsDialog.xaml;SetPermissionDialog.xaml;TextInputDialog.xaml;
+
+True
+

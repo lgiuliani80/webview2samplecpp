@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7OTa8fnJ0I=",
+  "success": true,
+  "projectFilePath": "C:\\Sviluppo\\WebView2Samples-main\\SampleApps\\WebView2WpfBrowser\\WebView2WpfBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.web.webview2\\1.0.2839-prerelease\\microsoft.web.webview2.1.0.2839-prerelease.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\giulianil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

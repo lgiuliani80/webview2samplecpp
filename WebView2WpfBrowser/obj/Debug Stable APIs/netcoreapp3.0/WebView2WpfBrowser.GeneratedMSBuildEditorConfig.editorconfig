@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WebView2WpfBrowser
+build_property.ProjectDir = C:\Sviluppo\WebView2Samples-main\SampleApps\WebView2WpfBrowser\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
